@@ -3,6 +3,8 @@
 
 This is a Power BI project for analyzing employee attrition and HR metrics.
 
+![Dashboard](dashboard.png)
+
 ## Tools Used
 - Power BI
 - Excel
