@@ -8,6 +8,8 @@ This is a Power BI project for analyzing employee attrition and HR metrics.
 ## Tools Used
 - Power BI
 - Excel
+- Power Quary
+- Pivot Tables
 
 ## Features
 - Attrition Analysis
