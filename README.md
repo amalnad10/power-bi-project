@@ -3,7 +3,7 @@
 
 This is a Power BI project for analyzing employee attrition and HR metrics.
 
-![Dashboard](dashboard.png)
+![Dashboard](HR-Dashboard.png)
 
 ## Tools Used
 - Power BI
